@@ -1,0 +1,63 @@
+---
+title: "NFDI4Ing Repository Explorer"
+author: "KIT / SCC"
+date: "23/01/2022"
+output:   
+    flexdashboard::flex_dashboard:
+        theme: spacelab
+        orientation: columns
+        vertical_layout: fill
+        source_code: embed
+        logo: NFDI4Ing.png
+runtime: shiny
+---
+
+```{r global, include=FALSE}
+library(flexdashboard)
+library(DT)
+library(RCurl)
+library(jpeg)
+library(readr)
+
+
+Repositories <- read_delim("Repositories.csv", 
+    ";", escape_double = FALSE, trim_ws = TRUE)
+
+```
+
+Row {} 
+--------------------------------------
+#### Select
+```{r}
+fluidRow(
+    column(3, selectInput('Type', 'Type:', c( "All", unique(as.character(Repositories$Type))))),
+    column(3, selectInput('Institution', 'Hosting Institution:', c( "All", unique(as.character(Repositories$`Hosting Institution/Organisation`))))),
+    column(3, selectInput('Access', 'Open Access:', c( "All", unique(as.character(Repositories$`Open Access`)))))
+)
+
+```
+
+
+#### Repositories and Collections
+```{r}
+
+div(DT::dataTableOutput('x1'), style = "font-size: 100%")
+output$x1 = DT::renderDataTable(DT::datatable({
+  data <- Repositories
+    if (input$Type != "All") {
+      data <- data[data$Type == input$Type,]
+    } 
+  if (input$Institution != "All") {
+      data <- data[data$`Hosting Institution/Organisation` == input$Institution,]
+  }
+  if (input$Access != "All") {
+      data <- data[data$`Open Access` == input$Access,]
+    }
+    data 
+  
+  }), escape=FALSE, server = FALSE) 
+
+```
+
+
+
