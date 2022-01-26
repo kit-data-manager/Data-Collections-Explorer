@@ -37,7 +37,8 @@ Row {}
 fluidRow(
     column(3, selectInput('Type', 'Type:', c( "All", unique(as.character(Repositories$Type))))),
     column(3, selectInput('Institution', 'Hosting Institution:', c( "All", unique(as.character(Repositories$`Hosting Institution/Organisation`))))),
-    column(3, selectInput('Access', 'Open Access:', c( "All", unique(as.character(Repositories$`Open Access`)))))
+    column(3, selectInput('Access', 'Open Access:', c( "All", unique(as.character(Repositories$`Open Access`))))),
+    title = "NFDI4Ing Repository Explorer"
 )
 
 ```
