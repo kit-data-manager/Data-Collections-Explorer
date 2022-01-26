@@ -11,6 +11,11 @@ output:
         logo: NFDI4Ing.png
 runtime: shiny
 ---
+<!-- From StackOverflow question 51600940; this seems to be the easiest
+  solution -->
+<script>
+$('.navbar-logo').wrap('<a href="https://www.nfdi4ing.de">');
+</script>
 
 ```{r global, include=FALSE}
 library(flexdashboard)
