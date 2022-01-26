@@ -60,7 +60,7 @@ output$x1 = DT::renderDataTable(DT::datatable({
     }
     data 
   
-  }), escape=FALSE, server = FALSE) 
+  })) 
 
 ```
 
