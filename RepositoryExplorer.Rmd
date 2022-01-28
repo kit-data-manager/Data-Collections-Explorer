@@ -60,7 +60,7 @@ output$x1 = DT::renderDataTable(DT::datatable({
     }
     data 
   
-  })) 
+  }, options = list(pageLength = 20))) 
 
 ```
 
