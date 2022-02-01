@@ -1,50 +1,50 @@
-Hosting Institution/Organisation;Name;Type;Open Access;API;Publication Cost;Dataset size limit;URL;Comment
-BAM;BAM-Publica;Bibliography/institutional Repository;partially;;;;https://opus4.kobv.de/opus4-bam/home;
-CERN;CERN Document Server;Bibliography;partially;;;;https://cds.cern.ch;CERN and HEP articles, reports, etc.
-TU München;mediaTUM;Institutional repository;;;;;https://mediatum.ub.tum.de;Repository to publish, archive and research public records, documents, images as well as research data
-KIT;KITopen;Institutional repository/Bibliography;yes;;;;https://www.bibliothek.kit.edu/kitopen-services.php;
-KIT;KITopenData;Repository;yes;yes;n/a;180GB;https://bwdatadiss.kit.edu;Publication and archiving of research data from participating institutions
-KIT;RADAR4KIT;Institutional repository;yes;yes;;;https://radar.kit.edu;Publication and archiving of research data for researchers at KIT
-TU Dresden;OpARA;Institutional repository;yes;yes;free;;https://opara.zih.tu-dresden.de;Research data repository jointly operated by TU Dresden and TU Bergakademie Freiberg
-TU Darmstadt;TUdatalib;Institutional repository;;yes;free (up to 2TB/year);;https://tudatalib.ulb.tu-darmstadt.de;Research data repository of TU Darmstadt
-TU Berlin;DepositOnce;Institutional repository;yes;yes;;;https://www.depositonce.tu-berlin.de;Research data repository of TU Berlin
-TU Braunschweig;Digitale Bibliothek Der Publikationsserver der TU Braunschweig ;Institutional repository;partially;yes;free;;https://publikationsserver.tu-braunschweig.de;Intended for publication and documentation of scientific research done at TU Braunschweig, publication of special interest collections of TU Braunschweig and regional institutions
-Universität Hannover;Forschungsdatenrepositorium;Institutional repository;yes;yes;free;;https://data.uni-hannover.de;Research data repository for researchers at Leibniz Universität Hannover (LUH)
-Universität Hannover;Institutionelles Repositorium der Leibniz Universität Hannover;Institutional repository;yes;;free;;https://www.repo.uni-hannover.de;Institutional repository open to members and alumni of LUH
-Universität Stuttgart;DaRUS;Institutional repository;;yes;;;https://darus.uni-stuttgart.de;
-RWTH Aachen;RWTH Publications ;Institutional repository;yes;yes;free;;https://publications.rwth-aachen.de;
-SLUB;Qucosa;Repository;yes;yes;free;;https://slub.qucosa.de;
-Geoforschungszentrum Potsdam;GFZpublic;Institutional repository/Bibliography;yes;yes;;;https://gfzpublic.gfz-potsdam.de;GFZ publishing database for books, journals, articles, etc. as well as publication records from external use of GFZ scientific literature
-FID GEO;GEO-LEO e-docs;Repository;yes;;;;https://e-docs.geo-leo.de;Repository of scientific publications from the earth sciences (including grey literature and maps, amongst others)
-FID Montan, Bergbau, Hüttenwesen;Montanportal;Bibliography;;;;;https://montanportal.com;Information portal concerning everything about mining, raw materials, metallurgy, etc., cooperation with FiD GEO
-FID BAU;Fachinformationsdienst BAUdigital;;;;;;https://www.fid-bau.de;Service is currently being set up, kick off was in September 2021
-FID Mathematik;fidmath;Bibliography;yes;;;;https://fidmath.de;Provides a central search interface to information sources of interest to mathematicians: library catalogues, preprint servers, journals, etc.
-FID Karten;Fachinformationsdienst Kartographie und Geobasisdaten;Bibliography/Repository;partially;;;;https://kartographie.staatsbibliothek-berlin.de;Provides resources for research of special cartographic literature, a repository service for sharing results in the fields of cartography, history of cartography and geoinformation is currently being set up
-FID Move;Fachinformationsdienst Mobilitäts- und Verkehrsforschung;Bibliography/Repository;;;;;https://fid-move.de;Search interface to various sources relevant to the field of mobility and traffic research, a research data repository is currently being set up
-FID Material Science;Fachinformationsdienst Materialwissenschaft und Werkstofftechnik;Catalogue;;;;;https://www.materials-science.info;Integrated interface to MaterialHub and TIB search portal, service is currently being set up
-NFDI4Ing/TIB;NFDI4Ing Terminology Service;Ontology;;yes;n/a;n/a;https://terminology.nfdi4ing.de;"Repository for engineering ontologies; provides API for integration in applications"
-Eric Meier;The Wood Database;Catalogue;yes;;n/a;n/a;https://www.wood-database.com;Privately curated online database of various wood species and their characteristics, usage, etc.
-SLUB;Material Hub;Repository;yes;;free;;https://www.materialhub.de;Materials research repository with partners from science and industry
-FAIR DI e.V.;NOMAD Novel Materials Discovery;Encyclopedia/Repository/Archive;yes;yes;free;32GB;https://nomad-lab.eu;Provides a repository, archive and encyclopedia of novel materials, as well as an AI toolkit to facilitate research on novel materials
-NIST;Database of Novel and Emerging Adsorbent Materials;Catalogue;;yes;n/a;n/a;https://adsorption.nist.gov/isodb/index.php;"Database of adsorption characteristics of novel materials; includes isotherm visualisation"
-RSC;ChemSpider;Repository;yes;yes;;;https://www.chemspider.com;"Chemical structure database; access by API requires an account with RSC"
-Open Reaction Databse Project;Open Reaction Database;Community repository;yes;;free;n/a;https://open-reaction-database.org;"Chemical reaction database of single-step organic reactions; still in development (12/2021)"
-Organic Syntheses, Inc.;Organic Syntheses;Catalogue;yes;;n/a;n/a;http://www.orgsyn.org;Catalogue of reliable preparations of organic compounds
-NIH National Library of Medicine;PubChem;Repository;yes;yes;free;n/a;https://pubchem.ncbi.nlm.nih.gov;The database collects information on chemical structures, physical and chemical properties, toxicity, etc.
-Vilnius University;Crystallography Open Database;Repository;yes;yes;;;https://www.crystallography.net/cod;Open Access database of crystal structures
-Geoforschungszentrum Potsdam;GFZ Data Services;Repository;yes;;;;https://dataservices.gfz-potsdam.de;Research data repository for the earth and environmental sciences, accepts research data as well as scientific software
-AWI/MARUM;PANGAEA;Repository;yes;yes;free, but a donation of 500€ is welcome;;https://www.pangaea.de;Open Access library aimed at archiving, publishing and distributing georeferenced data from earth system research
-Bundesamt für Wasserbau;HENRY Hydraulic Engineering Repository;Repository;yes;;free;;https://henry.baw.de;Repository for academic publications from the field of hydraulic engineering
-Open Engineering;engrXiv;Repository;yes;;free;;https://engrxiv.org;Eprint server for engineering
-Cranfield University;AERADE Reports Archive;Archive;yes;;n/a;n/a;https://reports.aerade.cranfield.ac.uk;Archive of historically significant reports from the Aeronautical Research Council and the National Advisory Commitee for Aeronautics
-Schloss Dagstuhl – Leibniz-Zentrum für Informatik;dblp computer science bibliography;Bibliography;yes;yes;n/a;n/a;https://dblp.org;Open bibliographic information focused on computer science journals and proceedings
-FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;zbMATH Open;Bibliography;yes;yes;n/a;n/a;https://zbmath.org;Comprehensive abstracting and reviewing service in pure and applied mathematics, also covers applications in the natural sciences, computer science, economics and engineering
-FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;swMATH;Database;yes;;n/a;n/a;https://swmath.org;Open access database about mathematical software
-U.S. Department of Energy Office of Scientific and Technical Information;DOE CODE;Institutional repository;;yes;;;https://www.osti.gov/doecode;DOE CODE provides functionality for collaboration, archiving, and discovery of scientific and business software
-NIST/CHIMaD;PFHub;Community repository;yes;;;;https://pages.nist.gov/pfhub;Collection of benchmark problems to test, validate and verify phase field codes
-Dryad;Dryad Digital Repository;Repository;yes;yes;120$;300GB;https://datadryad.org;Dryad is a curated general-purpose repository for research data, with a focus on biology, software submissions are published on zenodo
-Digital Science;figshare;Repository;yes;yes;free;20GB;https://figshare.com;General-purpose repository open to all fields of science
-CERN;Zenodo;Repository;yes;yes;donations encouraged;50GB;https://zenodo.org;An open access repository for all fields of science
-SciELO Scientific Electronic Library Online;SciELO;Bibliography/Digital library;yes;;free;;https://www.scielo.org;Bibliographic database, digital library, and electronic publishing of open access journals from Latin America, the Iberian Peninsula and South Africa
-SciELO Scientific Electronic Library Online;SciELO Data;Repository;yes;;free;2GB;https://data.scielo.org;Multidisciplinary repository for deposition of research data published on SciELO
-Centre pour la Communication Scientifique Directe;HAL science ouverte;Repository;yes;yes;;200MB;https://hal.archives-ouvertes.fr;Open access repository open to all academic fields, provides access to other repositories of french universities and research centers
+Hosting Institution;Name;Type;Subject area;Open Access;API;Publication Cost;Dataset size limit;URL;Comment
+BAM;BAM-Publica;Bibliography/institutional Repository;Interdisciplinary;partially;;;;https://opus4.kobv.de/opus4-bam/home;
+CERN;CERN Document Server;Bibliography;Interdisciplinary;partially;;;;https://cds.cern.ch;CERN and HEP articles, reports, etc.
+TU München;mediaTUM;Institutional repository;Interdisciplinary;;;;;https://mediatum.ub.tum.de;Repository to publish, archive and research public records, documents, images as well as research data
+KIT;KITopen;Institutional repository/Bibliography;Interdisciplinary;yes;;;;https://www.bibliothek.kit.edu/kitopen.php;
+KIT;KITopenData;Repository;Interdisciplinary;yes;yes;n/a;180GB;https://bwdatadiss.kit.edu;Publication and archiving of research data from participating institutions
+KIT;RADAR4KIT;Institutional repository;Interdisciplinary;yes;yes;;;https://radar.kit.edu;Publication and archiving of research data for researchers at KIT
+TU Dresden;OpARA;Institutional repository;Interdisciplinary;yes;yes;free;;https://opara.zih.tu-dresden.de;Research data repository jointly operated by TU Dresden and TU Bergakademie Freiberg
+TU Darmstadt;TUdatalib;Institutional repository;Interdisciplinary;;yes;free (up to 2TB/year);;https://tudatalib.ulb.tu-darmstadt.de;Research data repository of TU Darmstadt
+TU Berlin;DepositOnce;Institutional repository;Interdisciplinary;yes;yes;;;https://www.depositonce.tu-berlin.de;Research data repository of TU Berlin
+TU Braunschweig;Digitale Bibliothek Der Publikationsserver der TU Braunschweig ;Institutional repository;Interdisciplinary;partially;yes;free;;https://publikationsserver.tu-braunschweig.de;Intended for publication and documentation of scientific research done at TU Braunschweig, publication of special interest collections of TU Braunschweig and regional institutions
+Universität Hannover;Forschungsdatenrepositorium;Institutional repository;Interdisciplinary;yes;yes;free;;https://data.uni-hannover.de;Research data repository for researchers at Leibniz Universität Hannover (LUH)
+Universität Hannover;Institutionelles Repositorium der Leibniz Universität Hannover;Institutional repository;Interdisciplinary;yes;;free;;https://www.repo.uni-hannover.de;Institutional repository open to members and alumni of LUH
+Universität Stuttgart;DaRUS;Institutional repository;Interdisciplinary;;yes;;;https://darus.uni-stuttgart.de;
+RWTH Aachen;RWTH Publications ;Institutional repository;Interdisciplinary;yes;yes;free;;https://publications.rwth-aachen.de;
+SLUB;Qucosa;Repository;Interdisciplinary;yes;yes;free;;https://slub.qucosa.de;
+Geoforschungszentrum Potsdam;GFZpublic;Institutional repository/Bibliography;Earth science;yes;yes;;;https://gfzpublic.gfz-potsdam.de;GFZ publishing database for books, journals, articles, etc. as well as publication records from external use of GFZ scientific literature
+FID GEO;GEO-LEO e-docs;Repository;Earth science;yes;;;;https://e-docs.geo-leo.de;Repository of scientific publications from the earth sciences (including grey literature and maps, amongst others)
+FID Montan, Bergbau, Hüttenwesen;Montanportal;Bibliography;Mining;;;;;https://montanportal.com;Information portal concerning everything about mining, raw materials, metallurgy, etc., cooperation with FiD GEO
+FID BAU;Fachinformationsdienst BAUdigital;;Civil Engineering;;;;;https://www.fid-bau.de;Service is currently being set up, kick off was in September 2021
+FID Mathematik;fidmath;Bibliography;Mathematics;yes;;;;https://fidmath.de;Provides a central search interface to information sources of interest to mathematicians: library catalogues, preprint servers, journals, etc.
+FID Karten;Fachinformationsdienst Kartographie und Geobasisdaten;Bibliography/Repository;Cartography;partially;;;;https://kartographie.staatsbibliothek-berlin.de;Provides resources for research of special cartographic literature, a repository service for sharing results in the fields of cartography, history of cartography and geoinformation is currently being set up
+FID Move;Fachinformationsdienst Mobilitäts- und Verkehrsforschung;Bibliography/Repository;Transportation;;;;;https://fid-move.de;Search interface to various sources relevant to the field of mobility and traffic research, a research data repository is currently being set up
+FID Material Science;Fachinformationsdienst Materialwissenschaft und Werkstofftechnik;Catalogue;Materials Science;;;;;https://www.materials-science.info;Integrated interface to MaterialHub and TIB search portal, service is currently being set up
+NFDI4Ing/TIB;NFDI4Ing Terminology Service;Ontology;Interdisciplinary;;yes;n/a;n/a;https://terminology.nfdi4ing.de;"Repository for engineering ontologies; provides API for integration in applications"
+Eric Meier;The Wood Database;Catalogue;Materials Science;yes;;n/a;n/a;https://www.wood-database.com;Privately curated online database of various wood species and their characteristics, usage, etc.
+SLUB;Material Hub;Repository;Materials Science;yes;;free;;https://www.materialhub.de;Materials research repository with partners from science and industry
+FAIR DI e.V.;NOMAD Novel Materials Discovery;Encyclopedia/Repository/Archive;Materials Science;yes;yes;free;32GB;https://nomad-lab.eu;Provides a repository, archive and encyclopedia of novel materials, as well as an AI toolkit to facilitate research on novel materials
+NIST;Database of Novel and Emerging Adsorbent Materials;Catalogue;Materials Science;;yes;n/a;n/a;https://adsorption.nist.gov/isodb/index.php;"Database of adsorption characteristics of novel and emerging materials; includes isotherm visualisation"
+RSC;ChemSpider;Repository;Chemistry;yes;yes;;;https://www.chemspider.com;"Chemical structure database; access by API requires an account with RSC"
+Open Reaction Databse Project;Open Reaction Database;Community repository;Chemistry;yes;;free;n/a;https://open-reaction-database.org;"Chemical reaction database of single-step organic reactions; still in development (12/2021)"
+Organic Syntheses, Inc.;Organic Syntheses;Catalogue;Chemistry;yes;;n/a;n/a;http://www.orgsyn.org;Catalogue of reliable preparations of organic compounds
+NIH National Library of Medicine;PubChem;Repository;Chemistry;yes;yes;free;n/a;https://pubchem.ncbi.nlm.nih.gov;The database collects information on chemical structures, physical and chemical properties, toxicity, etc.
+Vilnius University;Crystallography Open Database;Repository;Crystallography;yes;yes;;;https://www.crystallography.net/cod;Open Access database of crystal structures
+Geoforschungszentrum Potsdam;GFZ Data Services;Repository;Earth and environmental science;yes;;;;https://dataservices.gfz-potsdam.de;Research data repository for the earth and environmental sciences, accepts research data as well as scientific software
+AWI/MARUM;PANGAEA;Repository;Earth and environmental science;yes;yes;free, but a donation of 500€ is welcome;;https://www.pangaea.de;Open Access library aimed at archiving, publishing and distributing georeferenced data from earth system research
+Bundesamt für Wasserbau;HENRY Hydraulic Engineering Repository;Repository;Hydraulic Engineering;yes;;free;;https://henry.baw.de;Repository for academic publications from the field of hydraulic engineering
+Open Engineering;engrXiv;Repository;Engineering;yes;;free;;https://engrxiv.org;Eprint server for engineering
+Cranfield University;AERADE Reports Archive;Archive;Aeronautics;yes;;n/a;n/a;https://reports.aerade.cranfield.ac.uk;Archive of historically significant reports from the Aeronautical Research Council and the National Advisory Commitee for Aeronautics
+Schloss Dagstuhl – Leibniz-Zentrum für Informatik;dblp computer science bibliography;Bibliography;Computer Science;yes;yes;n/a;n/a;https://dblp.org;Open bibliographic information focused on computer science journals and proceedings
+FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;zbMATH Open;Bibliography;Mathematics;yes;yes;n/a;n/a;https://zbmath.org;Comprehensive abstracting and reviewing service in pure and applied mathematics, also covers applications in the natural sciences, computer science, economics and engineering
+FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;swMATH;Database;Mathematics;yes;;n/a;n/a;https://swmath.org;Open access database about mathematical software
+U.S. Department of Energy Office of Scientific and Technical Information;DOE CODE;Institutional repository;Software;;yes;;;https://www.osti.gov/doecode;DOE CODE provides functionality for collaboration, archiving, and discovery of scientific and business software
+NIST/CHIMaD;PFHub;Community repository;Materials Science;yes;;;;https://pages.nist.gov/pfhub;Collection of benchmark problems to test, validate and verify phase field codes
+Dryad;Dryad Digital Repository;Repository;Interdisciplinary;yes;yes;120$;300GB;https://datadryad.org;Dryad is a curated general-purpose repository for research data, with a focus on biology, software submissions are published on Zenodo
+Digital Science;figshare;Repository;Interdisciplinary;yes;yes;free;20GB;https://figshare.com;General-purpose repository open to all fields of science
+CERN;Zenodo;Repository;Interdisciplinary;yes;yes;donations encouraged;50GB;https://zenodo.org;An open access repository for all fields of science
+SciELO Scientific Electronic Library Online;SciELO;Bibliography/Digital library;Interdisciplinary;yes;;free;;https://www.scielo.org;Bibliographic database, digital library, and electronic publishing of open access journals from Latin America, the Iberian Peninsula and South Africa
+SciELO Scientific Electronic Library Online;SciELO Data;Repository;Interdisciplinary;yes;;free;2GB;https://data.scielo.org;Multidisciplinary repository for deposition of research data published on SciELO
+Centre pour la Communication Scientifique Directe;HAL science ouverte;Repository;Interdisciplinary;yes;yes;;200MB;https://hal.archives-ouvertes.fr;Open access repository open to all academic fields, provides access to other repositories of french universities and research centers
