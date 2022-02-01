@@ -36,6 +36,7 @@ Row {}
 fluidRow(
     column(3, selectInput('Type', 'Type:', c( "All", unique(as.character(Repositories$Type))))),
     column(3, selectInput('Institution', 'Hosting Institution:', c( "All", unique(as.character(Repositories$`Hosting Institution`))))),
+    column(3, selectInput('Subject', 'Subject Area:', c("All", unique(as.character(Repositories$`Subject area`))))),
     column(3, selectInput('Access', 'Open Access:', c( "All", unique(as.character(Repositories$`Open Access`))))),
     title = "NFDI4Ing Repository Explorer"
 )
@@ -54,6 +55,9 @@ output$x1 = DT::renderDataTable(DT::datatable({
     } 
   if (input$Institution != "All") {
       data <- data[data$`Hosting Institution` == input$Institution,]
+  }
+  if (input$Subject != "All") {
+    data <- data[data$`Subject area` == input$Subject,]
   }
   if (input$Access != "All") {
       data <- data[data$`Open Access` == input$Access,]
