@@ -11,8 +11,8 @@ output:
         logo: NFDI4Ing.png
 runtime: shiny
 ---
-<script>
 <!-- From StackOverflow question 51600940; this seems to be the easiest solution -->
+<script>
 $('.navbar-logo').wrap('<a href="https://www.nfdi4ing.de">');
 </script>
 
