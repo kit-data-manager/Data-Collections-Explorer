@@ -9,6 +9,7 @@ output:
         vertical_layout: fill
         source_code: embed
         logo: NFDI4Ing.png
+        favicon: cropped-signet-32x32.png
 runtime: shiny
 ---
 <!-- From StackOverflow question 51600940; this seems to be the easiest solution -->
