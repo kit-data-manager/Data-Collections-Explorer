@@ -1,9 +1,9 @@
-Hosting Institution;Name;Type;Subject area;Open Access;API;Publication Cost;Dataset size limit;URL;Comment
+Hosting Institution;Name;Type;Subject area;Open Access;API;Publication Cost;Dataset size limit (GB);URL;Comment
 BAM;BAM-Publica;Institutional Repository/Bibliography;Interdisciplinary;partially;;;;https://opus4.kobv.de/opus4-bam/home;
 CERN;CERN Document Server;Bibliography;Interdisciplinary;partially;;;;https://cds.cern.ch;CERN and HEP articles, reports, etc.
 TU München;mediaTUM;Institutional Repository;Interdisciplinary;;;;;https://mediatum.ub.tum.de;Repository to publish, archive and research public records, documents, images as well as research data
 KIT;KITopen;Institutional Repository/Bibliography;Interdisciplinary;yes;;;;https://www.bibliothek.kit.edu/kitopen.php;
-KIT;KITopenData;Repository;Interdisciplinary;yes;yes;n/a;180GB;https://bwdatadiss.kit.edu;Publication and archiving of research data from participating institutions
+KIT;KITopenData;Repository;Interdisciplinary;yes;yes;n/a;180;https://bwdatadiss.kit.edu;Publication and archiving of research data from participating institutions
 KIT;RADAR4KIT;Institutional Repository;Interdisciplinary;yes;yes;;;https://radar.kit.edu;Publication and archiving of research data for researchers at KIT
 TU Dresden;OpARA;Institutional Repository;Interdisciplinary;yes;yes;free;;https://opara.zih.tu-dresden.de;Research data repository jointly operated by TU Dresden and TU Bergakademie Freiberg
 TU Darmstadt;TUdatalib;Institutional Repository;Interdisciplinary;;yes;free (up to 2TB/year);;https://tudatalib.ulb.tu-darmstadt.de;Research data repository of TU Darmstadt
@@ -25,7 +25,7 @@ FID Material Science;Fachinformationsdienst Materialwissenschaft und Werkstoffte
 NFDI4Ing/TIB;NFDI4Ing Terminology Service;Ontology;Interdisciplinary;;yes;n/a;n/a;https://terminology.nfdi4ing.de;"Repository for engineering ontologies; provides API for integration in applications"
 Eric Meier;The Wood Database;Catalogue;Materials Science;yes;;n/a;n/a;https://www.wood-database.com;Privately curated online database of various wood species and their characteristics, usage, etc.
 SLUB;Material Hub;Repository;Materials Science;yes;;free;;https://www.materialhub.de;Materials research repository with partners from science and industry
-FAIR DI e.V.;NOMAD Novel Materials Discovery;Encyclopedia/Repository/Archive;Materials Science;yes;yes;free;32GB;https://nomad-lab.eu;Provides a repository, archive and encyclopedia of novel materials, as well as an AI toolkit to facilitate research on novel materials
+FAIR DI e.V.;NOMAD Novel Materials Discovery;Encyclopedia/Repository/Archive;Materials Science;yes;yes;free;32;https://nomad-lab.eu;Provides a repository, archive and encyclopedia of novel materials, as well as an AI toolkit to facilitate research on novel materials
 NIST;Database of Novel and Emerging Adsorbent Materials;Catalogue;Materials Science;;yes;n/a;n/a;https://adsorption.nist.gov/isodb/index.php;"Database of adsorption characteristics of novel and emerging materials; includes isotherm visualisation"
 RSC;ChemSpider;Repository;Chemistry;yes;yes;;;https://www.chemspider.com;"Chemical structure database; access by API requires an account with RSC"
 Open Reaction Databse Project;Open Reaction Database;Community Repository;Chemistry;yes;;free;n/a;https://open-reaction-database.org;"Chemical reaction database of single-step organic reactions; still in development (12/2021)"
@@ -42,9 +42,9 @@ FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;zbMATH Open;Bi
 FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;swMATH;Database;Mathematics;yes;;n/a;n/a;https://swmath.org;Open access database about mathematical software
 U.S. Department of Energy Office of Scientific and Technical Information;DOE CODE;Institutional Repository;Software;;yes;;;https://www.osti.gov/doecode;DOE CODE provides functionality for collaboration, archiving, and discovery of scientific and business software
 NIST/CHIMaD;PFHub;Community Repository;Materials Science;yes;;;;https://pages.nist.gov/pfhub;Collection of benchmark problems to test, validate and verify phase field codes
-Dryad;Dryad Digital Repository;Repository;Interdisciplinary;yes;yes;120$;300GB;https://datadryad.org;Dryad is a curated general-purpose repository for research data, with a focus on biology, software submissions are published on Zenodo
-Digital Science;figshare;Repository;Interdisciplinary;yes;yes;free;20GB;https://figshare.com;General-purpose repository open to all fields of science
-CERN;Zenodo;Repository;Interdisciplinary;yes;yes;donations encouraged;50GB;https://zenodo.org;An open access repository for all fields of science
+Dryad;Dryad Digital Repository;Repository;Interdisciplinary;yes;yes;120$;300;https://datadryad.org;Dryad is a curated general-purpose repository for research data, with a focus on biology, software submissions are published on Zenodo
+Digital Science;figshare;Repository;Interdisciplinary;yes;yes;free;20;https://figshare.com;General-purpose repository open to all fields of science
+CERN;Zenodo;Repository;Interdisciplinary;yes;yes;donations encouraged;50;https://zenodo.org;An open access repository for all fields of science
 SciELO Scientific Electronic Library Online;SciELO;Bibliography/Digital Library;Interdisciplinary;yes;;free;;https://www.scielo.org;Bibliographic database, digital library, and electronic publishing of open access journals from Latin America, the Iberian Peninsula and South Africa
-SciELO Scientific Electronic Library Online;SciELO Data;Repository;Interdisciplinary;yes;;free;2GB;https://data.scielo.org;Multidisciplinary repository for deposition of research data published on SciELO
-Centre pour la Communication Scientifique Directe;HAL science ouverte;Repository;Interdisciplinary;yes;yes;;200MB;https://hal.archives-ouvertes.fr;Open access repository open to all academic fields, provides access to other repositories of french universities and research centers
+SciELO Scientific Electronic Library Online;SciELO Data;Repository;Interdisciplinary;yes;;free;2;https://data.scielo.org;Multidisciplinary repository for deposition of research data published on SciELO
+Centre pour la Communication Scientifique Directe;HAL science ouverte;Repository;Interdisciplinary;yes;yes;;0.2;https://hal.archives-ouvertes.fr;Open access repository open to all academic fields, provides access to other repositories of french universities and research centers
