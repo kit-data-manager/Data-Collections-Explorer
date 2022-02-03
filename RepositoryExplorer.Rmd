@@ -57,7 +57,8 @@ fluidRow(
 
 div(DT::dataTableOutput('x1'), style = "font-size: 100%")
 output$x1 = DT::renderDataTable(DT::datatable({
-  data <- Repositories
+  # Do not display the URL column
+  data <- Repositories[c(1:8,10)]
   if (input$Institution != "All") {
       data <- data[data$`Hosting Institution` == input$Institution,]
   }
