@@ -20,8 +20,6 @@ $('.navbar-logo').wrap('<a href="https://www.nfdi4ing.de">');
 ```{r global, include=FALSE}
 library(flexdashboard)
 library(DT)
-library(RCurl)
-library(jpeg)
 library(readr)
 
 
