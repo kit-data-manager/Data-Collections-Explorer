@@ -6,7 +6,7 @@ output:
     flexdashboard::flex_dashboard:
         theme: spacelab
         orientation: columns
-        vertical_layout: fill
+        vertical_layout: scroll
         source_code: embed
         logo: NFDI4Ing.png
         favicon: cropped-signet-32x32.png
