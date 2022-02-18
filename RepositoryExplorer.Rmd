@@ -51,7 +51,6 @@ createDDM <- function(Width, InputId, Label, TableColumnName) {
                      c("All", sort(unique(as.character(TableColumnName))))))
 }
 
-
 fluidRow(
   createDDM(3, 'Institution', 'Hosting Institution:', Repositories$`Hosting Institution`),
   createDDM(3, 'Type', 'Type:', Repositories$Type),
@@ -59,12 +58,10 @@ fluidRow(
   createDDM(3, 'Access', 'Open Access:', Repositories$`Open Access`),
   title = "NFDI4Ing Repository Explorer"
 )
-
 ```
 
 #### Repositories and Collections
 ```{r rendering}
-
 div(DT::dataTableOutput('x1'), style = "font-size: 100%")
 output$x1 = DT::renderDataTable(DT::datatable({
   # Do not display the URL column
@@ -86,5 +83,4 @@ output$x1 = DT::renderDataTable(DT::datatable({
   # 'escape = n' indicates that HTML in column 'n' should be escaped
   # possible values: 2 ('Name'), 9 ('URL')
   }, options = list(pageLength = 20), escape = 2))
-
 ```
