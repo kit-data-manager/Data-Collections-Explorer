@@ -36,6 +36,13 @@ createLink <- function(name, link) {
 # Add a link to the repository to the name
 Repositories$Name <- createLink(Repositories$Name, Repositories$URL)
 
+# Create a drop down menu where entries after "All" are sorted
+# alphabetically
+createDDM <- function(Width, InputId, Label, TableColumnName) {
+  column(Width, 
+         selectInput(InputId, Label, 
+                     c("All", sort(unique(as.character(TableColumnName))))))
+}
 ```
 
 Row {} 
@@ -43,11 +50,11 @@ Row {}
 #### Select
 ```{r selection}
 fluidRow(
-    column(3, selectInput('Institution', 'Hosting Institution:', c("All", unique(as.character(Repositories$`Hosting Institution`))))),
-    column(3, selectInput('Type', 'Type:', c("All", unique(as.character(Repositories$Type))))),
-    column(3, selectInput('Subject', 'Subject Area:', c("All", unique(as.character(Repositories$`Subject area`))))),
-    column(3, selectInput('Access', 'Open Access:', c("All", unique(as.character(Repositories$`Open Access`))))),
-    title = "NFDI4Ing Repository Explorer"
+  createDDM(3, 'Institution', 'Hosting Institution:', Repositories$`Hosting Institution`),
+  createDDM(3, 'Type', 'Type:', Repositories$Type),
+  createDDM(3, 'Subject', 'Subject Area:', Repositories$`Subject area`),
+  createDDM(3, 'Access', 'Open Access:', Repositories$`Open Access`),
+  title = "NFDI4Ing Repository Explorer"
 )
 
 ```
