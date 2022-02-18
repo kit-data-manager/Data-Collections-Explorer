@@ -24,16 +24,10 @@ library(flexdashboard)
 library(DT)
 library(readr)
 
-Repositories <- read_delim("Repositories.csv", 
-    ";", escape_double = FALSE, trim_ws = TRUE, col_types = "c")
-
 # Construct a HTML link; the destination is opened in a new tab/window
 createLink <- function(name, link) {
   sprintf('<a href="%s" target="_blank">%s</a>', link, name)
 }
-
-# Add a link to the repository to the name
-Repositories$Name <- createLink(Repositories$Name, Repositories$URL)
 
 # Create a drop down menu where entries after "All" are sorted
 # alphabetically
@@ -42,6 +36,12 @@ createDDM <- function(Width, InputId, Label, TableColumnName) {
          selectInput(InputId, Label, 
                      c("All", sort(unique(as.character(TableColumnName))))))
 }
+
+Repositories <- read_delim("Repositories.csv",
+    ";", escape_double = FALSE, trim_ws = TRUE, col_types = "c")
+
+# Add a link to the repository to the name
+Repositories$Name <- createLink(Repositories$Name, Repositories$URL)
 ```
 
 Row {} 
