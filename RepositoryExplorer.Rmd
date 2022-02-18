@@ -52,7 +52,6 @@ fluidRow(
 
 ```
 
-
 #### Repositories and Collections
 ```{r rendering}
 
@@ -79,6 +78,3 @@ output$x1 = DT::renderDataTable(DT::datatable({
   }, options = list(pageLength = 20), escape = 2))
 
 ```
-
-
-
