@@ -40,6 +40,9 @@ createDDM <- function(Width, InputId, Label, TableColumnName) {
 Repositories <- read_delim("Repositories.csv",
     ";", escape_double = FALSE, trim_ws = TRUE, col_types = "c")
 
+# Force the `Dataset size limit (GB)` to numeric; this ensures proper sorting
+Repositories$`Dataset size limit (GB)` <- as.numeric(Repositories$`Dataset size limit (GB)`)
+
 # Add a link to the repository to the name
 Repositories$Name <- createLink(Repositories$Name, Repositories$URL)
 ```
