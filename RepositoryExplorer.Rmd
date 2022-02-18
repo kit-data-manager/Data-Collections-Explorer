@@ -24,7 +24,6 @@ library(flexdashboard)
 library(DT)
 library(readr)
 
-
 Repositories <- read_delim("Repositories.csv", 
     ";", escape_double = FALSE, trim_ws = TRUE, col_types = "c")
 
