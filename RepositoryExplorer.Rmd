@@ -7,7 +7,6 @@ output:
         theme: spacelab
         orientation: columns
         vertical_layout: scroll
-        source_code: embed
         logo: NFDI4Ing.png
         favicon: cropped-signet-32x32.png
         includes:
