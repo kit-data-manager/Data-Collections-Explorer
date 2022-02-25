@@ -78,8 +78,9 @@ output$repos <- DT::renderDataTable(DT::datatable({
       data <- data[data$`Open Access` == input$Access,]
   }
   
-  data 
+  data
+  },
   # 'escape = n' indicates that HTML in column 'n' should be escaped
   # possible values: 2 ('Name'), 9 ('URL')
-  }, options = list(pageLength = 20), escape = 2))
+  options = list(pageLength = 20), escape = 2))
 ```
