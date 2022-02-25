@@ -1,33 +1,33 @@
 Hosting Institution;Name;Type;Subject area;Open Access;API;Publication Cost;Dataset size limit (GB);URL;Comment
 BAM;BAM-Publica;Institutional Repository/Bibliography;Interdisciplinary;partially;;;;https://opus4.kobv.de/opus4-bam/home;Bibliography and institutional repository for publications by BAM scientists
 CERN;CERN Document Server;Bibliography;Interdisciplinary;partially;;;;https://cds.cern.ch;CERN and HEP articles, reports, etc.
-TU München;mediaTUM;Institutional Repository;Interdisciplinary;;;;;https://mediatum.ub.tum.de;Repository to publish, archive and research public records, documents, images as well as research data
+TU München;mediaTUM;Institutional Repository;Interdisciplinary;undef.;;;;https://mediatum.ub.tum.de;Repository to publish, archive and research public records, documents, images as well as research data
 KIT;KITopen;Institutional Repository/Bibliography;Interdisciplinary;yes;;;;https://www.bibliothek.kit.edu/kitopen.php;
 KIT;KITopenData;Repository;Interdisciplinary;yes;yes;n/a;180;https://bwdatadiss.kit.edu;Publication and (long term) archiving of research data from participating institutions in Baden-Württemberg
 KIT;RADAR4KIT;Institutional Repository;Interdisciplinary;yes;yes;;;https://radar.kit.edu;
 TU Dresden;OpARA;Institutional Repository;Interdisciplinary;yes;yes;free;;https://opara.zih.tu-dresden.de;Research data repository and archive jointly operated by TU Dresden and TU Bergakademie Freiberg
-TU Darmstadt;TUdatalib;Institutional Repository;Interdisciplinary;;yes;free (up to 2TB/year);;https://tudatalib.ulb.tu-darmstadt.de;
+TU Darmstadt;TUdatalib;Institutional Repository;Interdisciplinary;undef.;yes;free (up to 2TB/year);;https://tudatalib.ulb.tu-darmstadt.de;
 TU Berlin;DepositOnce;Institutional Repository;Interdisciplinary;yes;yes;;;https://www.depositonce.tu-berlin.de;
 TU Braunschweig;Digitale Bibliothek Der Publikationsserver der TU Braunschweig ;Institutional Repository;Interdisciplinary;partially;yes;free;;https://publikationsserver.tu-braunschweig.de;Also publishes collections of special interest of TU Braunschweig and regional institutions
 Universität Hannover;Forschungsdatenrepositorium;Institutional Repository;Interdisciplinary;yes;yes;free;;https://data.uni-hannover.de;Research data repository for researchers at Leibniz Universität Hannover (LUH)
 Universität Hannover;Institutionelles Repositorium der Leibniz Universität Hannover;Institutional Repository;Interdisciplinary;yes;;free;;https://www.repo.uni-hannover.de;Institutional repository open to members and alumni of LUH
-Universität Stuttgart;DaRUS;Institutional Repository;Interdisciplinary;;yes;;;https://darus.uni-stuttgart.de;
+Universität Stuttgart;DaRUS;Institutional Repository;Interdisciplinary;undef.;yes;;;https://darus.uni-stuttgart.de;
 RWTH Aachen;RWTH Publications ;Institutional Repository;Interdisciplinary;yes;yes;free;;https://publications.rwth-aachen.de;
 SLUB;Qucosa;Repository;Interdisciplinary;yes;yes;free;;https://slub.qucosa.de;
 Geoforschungszentrum Potsdam;GFZpublic;Institutional Repository/Bibliography;Earth science;yes;yes;;;https://gfzpublic.gfz-potsdam.de;
 FID GEO;GEO-LEO e-docs;Repository;Earth science;yes;;;;https://e-docs.geo-leo.de;Repository and archive of scientific publications from the earth sciences (including grey literature and maps, amongst others)
-FID Montan, Bergbau, Hüttenwesen;Montanportal;Bibliography;Mining;;;;;https://montanportal.com;Information portal concerning everything about mining, raw materials, metallurgy, etc., cooperation with FiD GEO
-FID BAU;Fachinformationsdienst BAUdigital;;Civil Engineering;;;;;https://www.fid-bau.de;Service is currently being set up, kick off was in September 2021
+FID Montan, Bergbau, Hüttenwesen;Montanportal;Bibliography;Mining;undef.;;;;https://montanportal.com;Information portal concerning everything about mining, raw materials, metallurgy, etc., cooperation with FiD GEO
+FID BAU;Fachinformationsdienst BAUdigital;TBD;Civil Engineering;undef.;;;;https://www.fid-bau.de;Service is currently being set up, kick off was in September 2021
 FID Mathematik;fidmath;Bibliography;Mathematics;yes;;;;https://fidmath.de;Provides a central search interface to information sources of interest to mathematicians: library catalogues, preprint servers, journals, etc.
 FID Karten;Fachinformationsdienst Kartographie und Geobasisdaten;Bibliography/Repository;Cartography;partially;;;;https://kartographie.staatsbibliothek-berlin.de;"Provides resources for research of special cartographic literature; some services require registration"
-FID Move;Fachinformationsdienst Mobilitäts- und Verkehrsforschung;Bibliography/Repository;Transportation;;;;;https://fid-move.de;Search interface to various sources relevant to the field of mobility and traffic research, a research data repository is currently being set up
-FID Material Science;Fachinformationsdienst Materialwissenschaft und Werkstofftechnik;Catalogue;Materials Science;;;;;https://www.materials-science.info;Integrated interface to MaterialHub and TIB search portal, service is currently being set up
-NFDI4Ing/TIB;NFDI4Ing Terminology Service;Ontology;Interdisciplinary;;yes;n/a;n/a;https://terminology.nfdi4ing.de;Repository for engineering ontologies
+FID Move;Fachinformationsdienst Mobilitäts- und Verkehrsforschung;Bibliography/Repository;Transportation;undef.;;;;https://fid-move.de;Search interface to various sources relevant to the field of mobility and traffic research, a research data repository is currently being set up
+FID Material Science;Fachinformationsdienst Materialwissenschaft und Werkstofftechnik;Catalogue;Materials Science;undef.;;;;https://www.materials-science.info;Integrated interface to MaterialHub and TIB search portal, service is currently being set up
+NFDI4Ing/TIB;NFDI4Ing Terminology Service;Ontology;Interdisciplinary;undef.;yes;n/a;n/a;https://terminology.nfdi4ing.de;Repository for engineering ontologies
 Eric Meier;The Wood Database;Catalogue;Materials Science;yes;;n/a;n/a;https://www.wood-database.com;Privately curated online database of various wood species and their characteristics, usage, etc.
 SLUB;Material Hub;Repository;Materials Science;yes;;free;;https://www.materialhub.de;Materials research repository with partners from science and industry
 FAIR DI e.V.;NOMAD Novel Materials Discovery;Encyclopedia/Repository/Archive;Materials Science;yes;yes;free;32;https://nomad-lab.eu;Repository, archive and encyclopedia of novel materials, also provides an AI toolkit to facilitate research on novel materials
-NIST;Database of Novel and Emerging Adsorbent Materials;Catalogue;Materials Science;;yes;n/a;n/a;https://adsorption.nist.gov/isodb/index.php;"Database of adsorption characteristics of novel and emerging materials; includes isotherm visualisation"
-University of Chicago;Polymer Property Predictor and Database;Database;Materials Science;;;n/a;n/a;https://pppdb.uchicago.edu;
+NIST;Database of Novel and Emerging Adsorbent Materials;Catalogue;Materials Science;undef.;yes;n/a;n/a;https://adsorption.nist.gov/isodb/index.php;"Database of adsorption characteristics of novel and emerging materials; includes isotherm visualisation"
+University of Chicago;Polymer Property Predictor and Database;Database;Materials Science;undef.;;n/a;n/a;https://pppdb.uchicago.edu;
 Northwestern University;The Open Quantum Materials Database;Database;Materials Science;yes;yes;n/a;n/a;http://oqmd.org;Database of DFT-calculated thermodynamic and structural material properties
 RSC;ChemSpider;Repository;Chemistry;yes;yes;;;https://www.chemspider.com;"Chemical structure database; access by API requires an account with RSC"
 Open Reaction Databse Project;Open Reaction Database;Community Repository;Chemistry;yes;;free;n/a;https://open-reaction-database.org;"Chemical reaction database of single-step organic reactions; still in development (12/2021)"
@@ -42,7 +42,7 @@ Cranfield University;AERADE Reports Archive;Archive;Aeronautics;yes;;n/a;n/a;htt
 Schloss Dagstuhl – Leibniz-Zentrum für Informatik;dblp computer science bibliography;Bibliography;Computer Science;yes;yes;n/a;n/a;https://dblp.org;Bibliography focused on computer science journals and proceedings
 FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;zbMATH Open;Bibliography;Mathematics;yes;yes;n/a;n/a;https://zbmath.org;Abstracting and reviewing service in pure and applied mathematics, also covers applications in the natural sciences, computer science, economics and engineering
 FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;swMATH;Database;Mathematics;yes;;n/a;n/a;https://swmath.org;Database about mathematical software
-U.S. Department of Energy Office of Scientific and Technical Information;DOE CODE;Institutional Repository;Software;;yes;;;https://www.osti.gov/doecode;Repository and archive for DOE funded software (business and scientific)
+U.S. Department of Energy Office of Scientific and Technical Information;DOE CODE;Institutional Repository;Software;undef.;yes;;;https://www.osti.gov/doecode;Repository and archive for DOE funded software (business and scientific)
 NIST/CHIMaD;PFHub;Community Repository;Materials Science;yes;;;;https://pages.nist.gov/pfhub;Includes benchmarks for testing, validation and verification of results, a list of codes, as well as basic learning resources
 Dryad;Dryad Digital Repository;Repository;Interdisciplinary;yes;yes;120$;300;https://datadryad.org;Curated general-purpose repository, software submissions are published on Zenodo
 Digital Science;figshare;Repository;Interdisciplinary;yes;yes;free;20;https://figshare.com;
