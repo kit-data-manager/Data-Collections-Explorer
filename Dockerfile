@@ -15,3 +15,7 @@ ADD Repositories.csv /srv/shiny-server
 ADD footer.html /srv/shiny-server
 ADD NFDI4Ing.png /srv/shiny-server
 ADD cropped-signet-32x32.png /srv/shiny-server
+
+# Remove examples and create link to make RepositoryExplorer.Rmd the default app
+RUN cd /srv/shiny-server && rm -rf 0?_* 1?_* sample-apps index.html \
+	&& ln -s RepositoryExplorer.Rmd index.Rmd
