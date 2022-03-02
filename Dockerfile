@@ -9,3 +9,9 @@ RUN install2.r --error --skipinstalled --ncpu -1 \
 	flexdashboard \
 	DT \
 	readr
+
+ADD RepositoryExplorer.Rmd /srv/shiny-server
+ADD Repositories.csv /srv/shiny-server
+ADD footer.html /srv/shiny-server
+ADD NFDI4Ing.png /srv/shiny-server
+ADD cropped-signet-32x32.png /srv/shiny-server
