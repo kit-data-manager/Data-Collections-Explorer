@@ -1,0 +1,11 @@
+version: "1"
+services:
+  repository-explorer:
+    image: nfdi4ing-repository-explorer:v1
+    container_name: nfdi4ing-repository-explorer
+    ports:
+      - 3838:3838
+    volumes:
+      - ~/application:/srv/shiny-server/
+      - ~/shiny-logs:/var/log/shiny-server/
+    restart: unless-stopped
