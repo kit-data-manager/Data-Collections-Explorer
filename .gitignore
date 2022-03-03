@@ -1,1 +1,3 @@
 .Rhistory
+application/app_cache
+shiny-logs/*
