@@ -10,6 +10,5 @@ RUN install2.r --error --skipinstalled --ncpu -1 \
 	DT \
 	readr
 
-# Remove examples and create link to make RepositoryExplorer.Rmd the default app
-RUN cd /srv/shiny-server && rm -rf 0?_* 1?_* sample-apps index.html \
-	&& ln -s RepositoryExplorer.Rmd index.Rmd
+# Remove examples
+RUN cd /srv/shiny-server && rm -rf 0?_* 1?_* sample-apps index.html
