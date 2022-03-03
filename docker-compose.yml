@@ -6,6 +6,6 @@ services:
     ports:
       - 3838:3838
     volumes:
-      - ~/application:/srv/shiny-server/
-      - ~/shiny-logs:/var/log/shiny-server/
+      - ./application:/srv/shiny-server/
+      - ./shiny-logs:/var/log/shiny-server/
     restart: unless-stopped
