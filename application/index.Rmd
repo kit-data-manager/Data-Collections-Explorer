@@ -1,5 +1,5 @@
 ---
-title: "NFDI4Ing Repository Explorer"
+title: "NFDI4Ing Data Collections Explorer"
 author: "KIT / SCC"
 date: "08/03/2022"
 output:   
