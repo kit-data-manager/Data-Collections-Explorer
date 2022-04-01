@@ -35,6 +35,8 @@ NIH National Library of Medicine;PubChem;Repository;Chemistry;yes;yes;free;n/a;h
 Vilnius University;Crystallography Open Database;Repository;Crystallography;yes;yes;;;https://www.crystallography.net/cod;
 Geoforschungszentrum Potsdam;GFZ Data Services;Repository;Earth and environmental science;yes;;;;https://dataservices.gfz-potsdam.de;Research data repository for the earth and environmental sciences, accepts research data as well as scientific software
 AWI/MARUM;PANGAEA;Repository;Earth and environmental science;yes;yes;free, but a donation of 500€ is welcome;;https://www.pangaea.de;Repository and archive for georeferenced data from earth system research
+OEP Community;Open Energy Platform;Database;Energy;yes;yes;n/a;;https://openenergy-platform.org;Collection of tools for and information about energy system research
+OEP Community;Open Energy Ontology;Ontology;Energy;yes;;n/a;;https://openenergy-platform.org/ontology/;Developed as part of the Open Energy Platform
 Bundesamt für Wasserbau;HENRY Hydraulic Engineering Repository;Repository;Hydraulic Engineering;yes;;free;;https://henry.baw.de;Also provides an archive for reports and scientific publications from BAW and WSV
 Open Engineering;engrXiv;Repository;Engineering;yes;;free;;https://engrxiv.org;Eprint server for engineering
 Cranfield University;AERADE Reports Archive;Archive;Aeronautics;yes;;n/a;n/a;https://reports.aerade.cranfield.ac.uk;Archive of historically significant reports from the Aeronautical Research Council and the National Advisory Commitee for Aeronautics
