@@ -28,11 +28,19 @@ FAIR DI e.V.;NOMAD Novel Materials Discovery;Encyclopedia/Repository/Archive;Mat
 NIST;Database of Novel and Emerging Adsorbent Materials;Catalogue;Materials Science;undef.;yes;n/a;n/a;https://adsorption.nist.gov/isodb/index.php;"Database of adsorption characteristics of novel and emerging materials; includes isotherm visualisation"
 University of Chicago;Polymer Property Predictor and Database;Database;Materials Science;undef.;;n/a;n/a;https://pppdb.uchicago.edu;
 Northwestern University;The Open Quantum Materials Database;Database;Materials Science;yes;yes;n/a;n/a;http://oqmd.org;Database of DFT-calculated thermodynamic and structural material properties
+KIM Project;openKIM;Repository;Materials Science;yes;yes;;;https://openkim.org;Curated repository of interatomic potentials and framework to facilitate molecular simulation.
+The Materials Project;Materials Project;Database;Materials Science;yes;yes;;;https://materialsproject.org;Database of computed information about materials, both known and predicted.
+Materials Consortia;OPTIMADE;Database;Materials Science;yes;yes;;;https://www.optimade.org;OPTIMADE is the Open Database Integration for Materials Design
+Technical University of Denmark;Computational Materials Repository;Repository;Materials Science;yes;yes;;;https://cmr.fysik.dtu.dk;Repository containing various databases of different kinds of computational materials
+University of Florida;Materialsweb;Database;Materials Science;yes;yes;;;https://materialsweb.org;
+National University of Singapore;2D Materials Encyclopedia;Database;Materials Science;yes;;;;http://2dmatpedia.org;Collection of (computed) two dimensional materials
+Linköping University;Open Materials Database;Database;Materials Science;yes;yes;free;;https://openmaterialsdb.se;Database of (computational) materials properties
 RSC;ChemSpider;Repository;Chemistry;yes;yes;;;https://www.chemspider.com;"Chemical structure database; access by API requires an account with RSC"
 Open Reaction Databse Project;Open Reaction Database;Community Repository;Chemistry;yes;;free;n/a;https://open-reaction-database.org;"Chemical reaction database of single-step organic reactions; still in development (12/2021)"
 Organic Syntheses, Inc.;Organic Syntheses;Catalogue;Chemistry;yes;;n/a;n/a;http://www.orgsyn.org;Catalogue of reliable preparations of organic compounds
 NIH National Library of Medicine;PubChem;Repository;Chemistry;yes;yes;free;n/a;https://pubchem.ncbi.nlm.nih.gov;Database with information about chemical structures, physical and chemical properties, toxicity, etc.
 Vilnius University;Crystallography Open Database;Repository;Crystallography;yes;yes;;;https://www.crystallography.net/cod;
+Vilnius University;Theoretical Crystallography Open Database;Repository;Crystallography;yes;yes;;;https://www.crystallography.net/tcod/;
 Geoforschungszentrum Potsdam;GFZ Data Services;Repository;Earth and environmental science;yes;;;;https://dataservices.gfz-potsdam.de;Research data repository for the earth and environmental sciences, accepts research data as well as scientific software
 AWI/MARUM;PANGAEA;Repository;Earth and environmental science;yes;yes;free, but a donation of 500€ is welcome;;https://www.pangaea.de;Repository and archive for georeferenced data from earth system research
 OEP Community;Open Energy Platform;Database;Energy;yes;yes;n/a;;https://openenergy-platform.org;Collection of tools for and information about energy system research
