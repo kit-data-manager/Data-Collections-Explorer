@@ -23,6 +23,7 @@ FID Karten;Fachinformationsdienst Kartographie und Geobasisdaten;Bibliography/Re
 FID Move;Fachinformationsdienst Mobilitäts- und Verkehrsforschung;Bibliography/Repository;Transportation;undef.;;;;https://fid-move.de;Search interface to various sources relevant to the field of mobility and traffic research, a research data repository is currently being set up
 FID Material Science;Fachinformationsdienst Materialwissenschaft und Werkstofftechnik;Catalogue;Materials Science;undef.;;;;https://www.materials-science.info;Integrated interface to MaterialHub and TIB search portal, service is currently being set up
 NFDI4Ing/TIB;NFDI4Ing Terminology Service;Ontology;Interdisciplinary;undef.;yes;n/a;n/a;https://terminology.nfdi4ing.de;Repository for engineering ontologies
+BioPortal;MatPortal;Ontology;Materials Science;undef.;yes;n/a;n/a;https://matportal.org;Ontology repository for the material sciences
 Eric Meier;The Wood Database;Catalogue;Materials Science;yes;;n/a;n/a;https://www.wood-database.com;Privately curated online database of various wood species and their characteristics, usage, etc.
 SLUB;Material Hub;Repository;Materials Science;yes;;free;;https://www.materialhub.de;Materials research repository with partners from science and industry
 FAIR DI e.V.;NOMAD Novel Materials Discovery;Encyclopedia/Repository/Archive;Materials Science;yes;yes;free;32;https://nomad-lab.eu;Repository, archive and encyclopedia of novel materials, also provides an AI toolkit to facilitate research on novel materials
