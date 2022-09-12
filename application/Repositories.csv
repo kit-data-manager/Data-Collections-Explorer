@@ -47,6 +47,7 @@ Geoforschungszentrum Potsdam;GFZ Data Services;Repository;Earth and environmenta
 AWI/MARUM;PANGAEA;Repository;Earth and environmental science;yes;yes;free, but a donation of 500€ is welcome;;https://www.pangaea.de;Repository and archive for georeferenced data from earth system research
 OEP Community;Open Energy Platform;Database;Energy;yes;yes;n/a;;https://openenergy-platform.org;Collection of tools for and information about energy system research
 OEP Community;Open Energy Ontology;Ontology;Energy;yes;;n/a;;https://openenergy-platform.org/ontology/;Developed as part of the Open Energy Platform
+NFDI4Ing;Metadata4Ing;Ontology;Engineering;yes;;n/a;n/a;https://w3id.org/nfdi4ing/metadata4ing;Ontology focused on the semantic description of research data in the engineering sciences
 Bundesamt für Wasserbau;HENRY Hydraulic Engineering Repository;Repository;Hydraulic Engineering;yes;;free;;https://henry.baw.de;Also provides an archive for reports and scientific publications from BAW and WSV
 Open Engineering;engrXiv;Repository;Engineering;yes;;free;;https://engrxiv.org;Eprint server for engineering
 Cranfield University;AERADE Reports Archive;Archive;Aeronautics;yes;;n/a;n/a;https://reports.aerade.cranfield.ac.uk;Archive of historically significant reports from the Aeronautical Research Council and the National Advisory Commitee for Aeronautics
