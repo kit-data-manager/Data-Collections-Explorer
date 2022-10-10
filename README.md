@@ -1,6 +1,17 @@
 # Data Collections Explorer
 
-An information system focussed on the engineering sciences.
+Easy findability and accessibility are important for the efficient re-use of research data. The [Data Collections Explorer](https://rxp.datamanager.kit.edu) is an information system focussed on the engineering sciences. We want to help your search for subject specific repositories, archives, databases, and individually published datasets by answering these questions:
+- Are there datasets available to support my research questions?
+- Are there benchmarks available to check my results?
+- Are datasets published Open Access?
+- Where to publish my research datasets?
+- Are there size limitations for datasets?
+- Are there publication costs?
+
+### Features
+- Filtering for type of resource, subject area, Open Access
+- Full-text search of the entries
+- Constantly updated based on community feedback
 
 ## Getting Started
 
