@@ -39,3 +39,7 @@ Once the container is up and running, it can be accessed at `localhost:3838`.
 The R Markdown document (index.Rmd) and the CSV table to be served are located in the `application` directory,
 outside the Docker container. When the Docker container is run for the first time, a directory `shiny-logs` is
 created on the same level as the `application` directory.
+
+## Contributions
+
+Please make a pull request if you miss a dataset, repository, database, or archive. Thank you!
