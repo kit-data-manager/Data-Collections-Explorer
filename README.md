@@ -19,7 +19,7 @@ If you want to serve a local instance of the Data Collections Explorer, you will
 commands to set up the container:
 ```
 # This builds the container and installs the required packages
-docker build -t nfdi4ing-repository-explorer:v1 - < Dockerfile
+docker build -t nfdi4ing-data-collections-explorer:v1 - < Dockerfile
 # Start the container
 docker compose up
 ```

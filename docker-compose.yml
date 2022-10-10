@@ -1,8 +1,8 @@
 version: "3.7"
 services:
-  repository-explorer:
-    image: nfdi4ing-repository-explorer:v1
-    container_name: nfdi4ing-repository-explorer
+  data-collections-explorer:
+    image: nfdi4ing-data-collections-explorer:v1
+    container_name: nfdi4ing-data-collections-explorer
     ports:
       - 3838:3838
     volumes:
