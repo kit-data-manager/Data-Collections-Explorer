@@ -26,7 +26,7 @@ These can be installed from within R as follows:
 install.packages(c("rmarkdown", "flexdashboard", "DT", "readr"))
 ```
 
-If you want to serve a local instance of the Data Collections Explorer, you will need Docker. Run the following
+Docker is required If you want to serve a local instance of the Data Collections Explorer. Run the following
 commands to set up the container:
 ```
 # This builds the container and installs the required packages
@@ -36,7 +36,7 @@ docker compose up
 ```
 Once the container is up and running, it can be accessed at `localhost:3838`.
 
-The R Markdown document (index.Rmd) and the CSV table to be served are located in the `application` directory,
+The R Markdown document (index.Rmd) and the CSV table to be served are located in the `application` directory
 outside the Docker container. When the Docker container is run for the first time, a directory `shiny-logs` is
 created on the same level as the `application` directory.
 
