@@ -21,7 +21,7 @@ FID BAU;Fachinformationsdienst BAUdigital;Bibliography/Repository;Civil Engineer
 FID Mathematik;fidmath;Bibliography;Mathematics;yes;;;;https://fidmath.de;Provides a central search interface to information sources of interest to mathematicians: library catalogues, preprint servers, journals, etc.
 FID Karten;Fachinformationsdienst Kartographie und Geobasisdaten;Bibliography/Repository;Cartography;partially;;;;https://kartographie.staatsbibliothek-berlin.de;"Provides resources for research of special cartographic literature; some services require registration"
 FID Move;Fachinformationsdienst Mobilitäts- und Verkehrsforschung;Bibliography/Repository;Transportation;undef.;;;;https://fid-move.de;Repository and search interface to various sources relevant to the field of mobility and transport research
-FID Move;FID Move Repositorium;Repository;Transportation;yes;yes;;;https://data.fid-move.de;Research data repository for the field of mobility and traffic research
+FID Move;FID Move Repositorium;Repository;Transportation;yes;yes;;;https://data.fid-move.de;Research data repository for the field of mobility and transport research
 FID Material Science;Fachinformationsdienst Materialwissenschaft und Werkstofftechnik;Catalogue;Materials Science;undef.;;;;https://www.materials-science.info;Integrated interface to MaterialHub and TIB search portal, service is currently being set up
 NFDI4Ing/TIB;NFDI4Ing Terminology Service;Terminology Service;Interdisciplinary;undef.;yes;n/a;n/a;https://terminology.nfdi4ing.de;Repository for engineering ontologies
 BioPortal;MatPortal;Terminology Service;Materials Science;undef.;yes;n/a;n/a;https://matportal.org;Ontology repository for the material sciences
