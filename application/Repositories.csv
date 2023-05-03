@@ -43,6 +43,8 @@ RSC;ChemSpider;Repository;Chemistry;yes;yes;;;https://www.chemspider.com;Chemica
 Open Reaction Databse Project;Open Reaction Database;Community Repository;Chemistry;yes;;free;n/a;https://open-reaction-database.org;Chemical reaction database of single-step organic reactions, still in development (12/2021)
 Organic Syntheses, Inc.;Organic Syntheses;Catalogue;Chemistry;yes;;n/a;n/a;http://www.orgsyn.org;Catalogue of reliable preparations of organic compounds
 NIH National Library of Medicine;PubChem;Repository;Chemistry;yes;yes;free;n/a;https://pubchem.ncbi.nlm.nih.gov;Database with information about chemical structures, physical and chemical properties, toxicity, etc.
+KIT;Chemotion Repository;Repository;Chemistry;yes;yes;;;https://www.chemotion-repository.net;Chemotion Repository provides an archive for materials, as well as research data repository for samples, reactions and analyses
+FIZ Karlsruhe;RADAR4Chem;Repository;Chemistry;yes;yes;;;https://radar4chem.radar-service.eu;API access only includes metadata
 Vilnius University;Crystallography Open Database;Repository;Crystallography;yes;yes;;;https://www.crystallography.net/cod;
 Vilnius University;Theoretical Crystallography Open Database;Repository;Crystallography;yes;yes;;;https://www.crystallography.net/tcod/;
 Geoforschungszentrum Potsdam;GFZ Data Services;Repository;Earth and environmental science;yes;;;;https://dataservices.gfz-potsdam.de;Research data repository for the earth and environmental sciences, accepts research data as well as scientific software
