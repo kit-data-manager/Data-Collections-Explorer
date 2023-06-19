@@ -1,7 +1,7 @@
 ---
 title: "NFDI4Ing Data Collections Explorer"
 author: "KIT / SCC"
-date: "03/05/2023"
+date: "19/06/2023"
 output:   
     flexdashboard::flex_dashboard:
         theme: spacelab
