@@ -40,6 +40,7 @@ National University of Singapore;2D Materials Encyclopedia;Database;Materials Sc
 Linköping University;Open Materials Database;Database;Materials Science;yes;yes;free;;https://openmaterialsdb.se;Database of (computational) materials properties
 University of Alabama;Heusler Database;Database;Materials Science;yes;no;n/a;;http://heusleralloys.mint.ua.edu;Database of (calculated) properties of Heusler alloys
 KIT;NFDI-MatWerk Repository;Repository;Materials Science;yes;yes;no;;https://matwerk.datamanager.kit.edu;Data and metadata repository for NFDI-MatWerk. File size limit for the metadata repository is 10MB.
+FIZ Karlsruhe;Inorganic Crystal Structure Database;Database;Materials Science;no;yes;;;https://icsd.products.fiz-karlsruhe.de;Database for completely identified inorganic crystal structures. Access requires a license.
 RSC;ChemSpider;Repository;Chemistry;yes;yes;;;https://www.chemspider.com;Chemical structure database, access by API requires an account with RSC
 Open Reaction Databse Project;Open Reaction Database;Community Repository;Chemistry;yes;;free;n/a;https://open-reaction-database.org;Chemical reaction database of single-step organic reactions, still in development (12/2021)
 Organic Syntheses, Inc.;Organic Syntheses;Catalogue;Chemistry;yes;;n/a;n/a;http://www.orgsyn.org;Catalogue of reliable preparations of organic compounds
