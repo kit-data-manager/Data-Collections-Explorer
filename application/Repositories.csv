@@ -2,7 +2,6 @@ Hosting Institution;Name;Type;Subject area;Open Access;API;Publication Cost;Data
 BAM;BAM-Publica;Institutional Repository/Bibliography;Interdisciplinary;partially;;;;https://opus4.kobv.de/opus4-bam/home;Bibliography and institutional repository for publications by BAM scientists
 CERN;CERN Document Server;Bibliography;Interdisciplinary;partially;;;;https://cds.cern.ch;CERN and HEP articles, reports, etc.
 TU München;mediaTUM;Institutional Repository;Interdisciplinary;undef.;;;;https://mediatum.ub.tum.de;Repository to publish, archive and research public records, documents, images as well as research data
-KIT;KITopenData;Repository;Interdisciplinary;yes;yes;n/a;180;https://bwdatadiss.kit.edu;Publication and (long term) archiving of research data from participating institutions in Baden-Württemberg
 KIT;RADAR4KIT;Institutional Repository;Interdisciplinary;yes;yes;;;https://radar.kit.edu;
 TU Dresden;OpARA;Institutional Repository;Interdisciplinary;yes;yes;free;;https://opara.zih.tu-dresden.de;Research data repository and archive jointly operated by TU Dresden and TU Bergakademie Freiberg
 TU Darmstadt;TUdatalib;Institutional Repository;Interdisciplinary;undef.;yes;free (up to 2TB/year);;https://tudatalib.ulb.tu-darmstadt.de;
