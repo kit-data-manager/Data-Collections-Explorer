@@ -85,3 +85,4 @@ Universität Ulm;DENSE datasets;Dataset;Autonomous Driving;yes;no;n/a;n/a;https:
 Baidu;ApolloScape;Dataset;Autonomous Driving;partially;no;n/a;n/a;https://apolloscape.auto;
 ETH Zürich;ACDC Dataset;Dataset;Autonomous Driving;partially;no;n/a;n/a;https://acdc.vision.ee.ethz.ch;ACDC is the Adverse Conditions Dataset with Correspondences and supports both standard and uncertainty-aware semantic segmentation
 ULB Darmstadt;ELN Finder;Catalogue;Interdisciplinary;yes;no;n/a;n/a;https://eln-finder.ulb.tu-darmstadt.de;Overview of currently available ELN software solutions. Still in development.
+DLR-TS;DLR Digitaler Atlas;Catalogue;Interdisciplinary;partially;no;n/a;n/a;https://ts.dlr.de/geonetwork/srv/ger/catalog.search#/home;Metadata catalogue (Geonetwork) for spatially referenced resources.
