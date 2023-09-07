@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Data Collections Explorer
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Philipp
+    family-names: Ost
+    email: philipp.ost@kit.edu
+    affiliation: Karlsruhe Institute of Technology
+    orcid: 'https://orcid.org/0000-0002-7198-0566'
+repository-code: >-
+  https://github.com/kit-data-manager/Data-Collections-Explorer
+url: 'https://data-collections.nfdi4ing.de'
+license: Apache-2.0
