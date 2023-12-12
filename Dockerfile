@@ -1,6 +1,6 @@
-# Dockerfile for the NFDI4Ing Repository Explorer PoC
-# Build it with: docker build -t nfdi4ing-repository-explorer:v1 - < Dockerfile
-# Alternativly: docker build -t nfdi4ing-repository-explorer:v1 .
+# Dockerfile for the NFDI4Ing Data Collections Explorer PoC
+# Build it with: docker build -t data-collections-explorer:v1 - < Dockerfile
+# Alternativly: docker build -t data-collections-explorer:v1 .
 FROM rocker/shiny:4.1.2 AS data-collections-explorer
 LABEL maintainer="philipp.ost@kit.edu"
 
