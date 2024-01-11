@@ -49,6 +49,7 @@ NIH National Library of Medicine;PubChem;Repository;Chemistry;yes;yes;free;n/a;h
 KIT;Chemotion Repository;Repository;Chemistry;yes;yes;;;https://www.chemotion-repository.net;Chemotion Repository provides an archive for materials, as well as a research data repository for samples, reactions and analyses
 FIZ Karlsruhe – Leibniz-Institut für Informationsinfrastruktur;RADAR4Chem;Repository;Chemistry;yes;yes;;;https://radar4chem.radar-service.eu;API access only includes metadata
 Uni Jena;nmrXiv;Repository;Chemistry;yes;yes;no;;https://nmrxiv.org;Repository of raw and processed NMR data
+Uni Köln;NMRShiftDB;Database;Chemistry;yes;yes;;;http://www.nmrshiftdb.org;NMR database for organic structures
 Vilnius University;Crystallography Open Database;Repository;Crystallography;yes;yes;;;https://www.crystallography.net/cod;
 Vilnius University;Theoretical Crystallography Open Database;Repository;Crystallography;yes;yes;;;https://www.crystallography.net/tcod/;
 Geoforschungszentrum Potsdam;GFZ Data Services;Repository;Earth and environmental science;yes;;;;https://dataservices.gfz-potsdam.de;Research data repository for the earth and environmental sciences, accepts research data as well as scientific software
