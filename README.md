@@ -43,3 +43,8 @@ created on the same level as the `application` directory.
 ## Contributions
 
 Please make a pull request if you miss a dataset, repository, database, or archive. Thank you!
+
+
+## Acknowledgements
+
+This work has been supported by [NFDI4Ing](https://nfdi4ing.de) (DFG project number 442146713).
