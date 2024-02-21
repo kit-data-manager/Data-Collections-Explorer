@@ -47,4 +47,4 @@ Please make a pull request if you miss a dataset, repository, database, or archi
 
 ## Acknowledgements
 
-This work has been supported by [NFDI4Ing](https://nfdi4ing.de) (DFG project number 442146713).
+This work is being supported by [NFDI4Ing](https://nfdi4ing.de) (DFG project number 442146713).
