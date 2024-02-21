@@ -42,8 +42,19 @@ created on the same level as the `application` directory.
 
 ## Contributions
 
-Please make a pull request if you miss a dataset, repository, database, or archive. Thank you!
+Please make a pull request if you miss a dataset, repository, database, or archive. Please provide the following
+information:
+- Host or hosting institution(s)
+- Name of the dataset or service
+- Subject Area(s)
+- Open Access (yes|no|partially)
+- API (yes|no)
+- Publication cost
+- Dataset size limits
+- URL
+- (Optional) Comment
 
+Thank you!
 
 ## Acknowledgements
 
