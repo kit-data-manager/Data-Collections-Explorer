@@ -1,0 +1,26 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Engineering",
+    "codeRepository": "https://github.com/kit-data-manager/Data-Collections-Explorer",
+    "dateCreated": "2022-01-25",
+    "datePublished": "2022-10-07",
+    "description": "The NFDI4Ing Data Collections Explorer is an easy-to-use information system for the engineering sciences.",
+    "funder": {
+        "type": "Organization",
+        "name": "NFDI4Ing"
+    },
+    "keywords": [
+        "FAIR",
+        "NFDI",
+        "NFDI4Ing"
+    ],
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "name": "Data Collections Explorer",
+    "programmingLanguage": "R",
+    "relatedLink": "https://data-collections.nfdi4ing.de",
+    "softwareRequirements": "Docker, RStudio, rmarkdown, flexdashboard, DT, readr",
+    "funding": "DFG project number 442146713",
+    "issueTracker": "https://github.com/kit-data-manager/Data-Collections-Explorer/issues",
+    "referencePublication": "https://doi.org/10.52825/cordi.v1i.405"
+}
