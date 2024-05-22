@@ -42,7 +42,7 @@ created on the same level as the `application` directory.
 
 ## Contributions
 
-Please make a pull request if you miss a dataset, repository, database, or archive. Please provide the following
+Please make a pull request (or open an issue) if you miss a dataset, repository, database, or archive. Please provide the following
 information:
 - Host or hosting institution(s)
 - Name of the dataset or service
