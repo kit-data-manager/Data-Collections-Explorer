@@ -56,6 +56,10 @@ information:
 
 Thank you!
 
+## Further Information
+
+[re3data](https://www.re3data.org) provides an overview of quality controlled repositories.
+
 ## Acknowledgements
 
 This work is being supported by [NFDI4Ing](https://nfdi4ing.de) (DFG project number 442146713).
