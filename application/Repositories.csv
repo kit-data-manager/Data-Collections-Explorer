@@ -88,7 +88,7 @@ Motional;nuImages;Dataset;Autonomous Driving;yes;no;n/a;n/a;https://www.nuscenes
 Universität Ulm;DENSE datasets;Dataset;Autonomous Driving;yes;no;n/a;n/a;https://www.uni-ulm.de/en/in/driveu/projects/dense-datasets/;The datasets contains scenes in adverse and challenging weather conditions
 Baidu;ApolloScape;Dataset;Autonomous Driving;partially;no;n/a;n/a;https://apolloscape.auto;Collection of datasets for autonomous driving.
 ETH Zürich;ACDC Dataset;Dataset;Autonomous Driving;partially;no;n/a;n/a;https://acdc.vision.ee.ethz.ch;ACDC is the Adverse Conditions Dataset with Correspondences and supports both standard and uncertainty-aware semantic segmentation
-University of Toronto;Boreas Dataset;Dataset;Autonomous Driving;yes;yes;n/a;n/a;https://www.boreas.utias.utoronto.ca;Boreas is multi-season autonomous driving dataset.
+University of Toronto;Boreas Dataset;Dataset;Autonomous Driving;yes;yes;n/a;n/a;https://www.boreas.utias.utoronto.ca;Boreas is multi-season autonomous driving dataset. API access is via AWS S3.
 ULB Darmstadt;ELN Finder;Catalogue;Interdisciplinary;yes;no;n/a;n/a;https://eln-finder.ulb.tu-darmstadt.de;Overview of currently available ELN software solutions. Still in development.
 DLR-TS;DLR Digitaler Atlas;Catalogue;Interdisciplinary;partially;no;n/a;n/a;https://ts.dlr.de/geonetwork/srv/ger/catalog.search#/home;Metadata catalogue (Geonetwork) for spatially referenced resources.
 TU Darmstadt;TUstorage;Repository;Interdisciplinary;yes;no;;;https://tustorage.ulb.tu-darmstadt.de;Repository which provides access to research documents for use in text and data mining applications. Currently in pilot operation.
