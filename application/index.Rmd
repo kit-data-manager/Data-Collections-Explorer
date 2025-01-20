@@ -1,5 +1,5 @@
 ---
-title: "NFDI4Ing Data Collections Explorer"
+title: "NFDI4ING Data Collections Explorer"
 author: "KIT / SCC"
 date: "23/10/2024"
 output:   
@@ -7,7 +7,7 @@ output:
         theme: spacelab
         orientation: columns
         vertical_layout: scroll
-        logo: NFDI4Ing.png
+        logo: NFDI4ING.png
         favicon: cropped-signet-32x32.png
         includes:
             after_body: footer.html
@@ -55,7 +55,7 @@ fluidRow(
   createDDM(3, 'Type', 'Type:', Repositories$Type),
   createDDM(3, 'Subject', 'Subject Area:', Repositories$`Subject area`),
   createDDM(3, 'Access', 'Open Access:', Repositories$`Open Access`),
-  title = "NFDI4Ing Repository Explorer"
+  title = "NFDI4ING Data Collections Explorer"
 )
 ```
 
