@@ -23,8 +23,8 @@ FID Karten;Fachinformationsdienst Kartographie und Geobasisdaten;Bibliography/Re
 FID Move;Fachinformationsdienst Mobilitäts- und Verkehrsforschung;Bibliography/Repository;Transportation;undef.;;;;https://fid-move.de;Repository and search interface to various sources relevant to the field of mobility and transport research
 FID Move;FID Move Repositorium;Repository;Transportation;yes;yes;;;https://data.fid-move.de;Research data repository for the field of mobility and transport research
 FID Material Science;Fachinformationsdienst Materialwissenschaft und Werkstofftechnik;Catalogue;Materials Science;undef.;;;;https://www.materials-science.info;Integrated interface to MaterialHub and TIB search portal, service is currently being set up
-NFDI4Ing;NFDI4Ing Ingest Service;Repository;Civil Engineering;yes;yes;free;;https://ingest.nfdi4ing.de;Repository for civil engineering, architecture and urbanism.
-NFDI4Ing/TIB;NFDI4Ing Terminology Service;Terminology Service;Interdisciplinary;undef.;yes;n/a;n/a;https://terminology.nfdi4ing.de;Repository for engineering ontologies
+NFDI4ING;NFDI4ING Ingest Service;Repository;Civil Engineering;yes;yes;free;;https://ingest.nfdi4ing.de;Repository for civil engineering, architecture and urbanism.
+NFDI4ING/TIB;NFDI4ING Terminology Service;Terminology Service;Interdisciplinary;undef.;yes;n/a;n/a;https://terminology.nfdi4ing.de;Repository for engineering ontologies
 BioPortal;MatPortal;Terminology Service;Materials Science;undef.;yes;n/a;n/a;https://matportal.org;Ontology repository for the material sciences
 Eric Meier;The Wood Database;Catalogue;Materials Science;yes;;n/a;n/a;https://www.wood-database.com;Privately curated online database of various wood species and their characteristics, usage, etc.
 SLUB;Material Hub;Repository;Materials Science;yes;;free;;https://www.materialhub.de;Materials research repository with partners from science and industry
@@ -55,7 +55,7 @@ Geoforschungszentrum Potsdam;GFZ Data Services;Repository;Earth and environmenta
 AWI/MARUM;PANGAEA;Repository;Earth and environmental science;yes;yes;free, but a donation of 500€ is welcome;;https://www.pangaea.de;Repository and archive for georeferenced data from earth system research
 OEP Community;Open Energy Platform;Database;Energy;yes;yes;n/a;;https://openenergy-platform.org;Collection of tools for and information about energy system research
 OEP Community;Open Energy Ontology;Ontology;Energy;yes;;n/a;;https://openenergy-platform.org/ontology/;Developed as part of the Open Energy Platform
-NFDI4Ing;Metadata4Ing;Ontology;Engineering;yes;;n/a;n/a;https://w3id.org/nfdi4ing/metadata4ing;Ontology focused on the semantic description of research data in the engineering sciences
+NFDI4ING;Metadata4Ing;Ontology;Engineering;yes;;n/a;n/a;https://w3id.org/nfdi4ing/metadata4ing;Ontology focused on the semantic description of research data in the engineering sciences
 Bundesamt für Wasserbau;HENRY Hydraulic Engineering Repository;Repository;Hydraulic Engineering;yes;;free;;https://henry.baw.de;Also provides an archive for reports and scientific publications from BAW and WSV
 Open Engineering;engrXiv;Repository;Engineering;yes;;free;;https://engrxiv.org;Eprint server for engineering
 Cranfield University;AERADE Reports Archive;Archive;Aeronautics;yes;;n/a;n/a;https://reports.aerade.cranfield.ac.uk;Archive of historically significant reports from the Aeronautical Research Council and the National Advisory Commitee for Aeronautics
